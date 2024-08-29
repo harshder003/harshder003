@@ -3,7 +3,7 @@
 ## About Me
 
 - GitHub ID: harshder003
-- Company GitHub ID: harshderfj
+- Work GitHub ID: harshderfj
 - Education: 4th year Data Science student at MIT Manipal
 - Specializations:
   - AI for Medicine
